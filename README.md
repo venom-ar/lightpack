@@ -6,7 +6,7 @@ Main source is here [main source](https://github.com/abasheyari595/cutecat) fork
 
 
 ## Deploy
-[![تنصيب عبر هيروكو](https://www.herokucdn.com/deploy/button.svg)](https%3A%2F%2Fdashboard.heroku.com%2Fnew%3Ftemplate%3Dhttps%3A%2F%2Fgithub.com%2Fvenom-ar%2Fcatpack)
+[![تنصيب عبر هيروكو](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template%3Dhttps%3A%2F%2Fgithub.com%2Fvenom-ar%2Fcatpack)
 
 ## credits
    - [@midnightmadwalk](https://t.me/midnightmadwalk)
