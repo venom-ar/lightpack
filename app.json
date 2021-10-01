@@ -31,11 +31,6 @@
       "description": "هنـا ضع توكن بوتك",
       "value": ""
     },
-    "COMMAND_HAND_LER": {
-      "description": "لا تغيـرها ابدا",
-      "value": ".",
-      "required": false
-    },
     "ENV": {
       "description": "لا تغيـرها ابدا",
       "value": "ANYTHING",
