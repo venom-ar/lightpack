@@ -53,7 +53,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "لا تغيـرها ابدا",
-      "value": "cutecat",
+      "value": "https://github.com/abasheyari595/cutecat",
       "required": false
     }
   },
